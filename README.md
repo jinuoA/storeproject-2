@@ -1,7 +1,7 @@
 # storeproject-2
 Django实现商城网站
 
-##开发环境 Python3.4，Django1.8.4，Mysql5.6
+##开发环境 Python3.5，Django1.8，Mysql5.7
 
 ##实现功能点
 
